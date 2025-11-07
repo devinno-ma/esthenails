@@ -79,7 +79,7 @@ export default function ContactPage() {
             </h1>
 
             <p className="text-lg md:text-xl text-white/90 max-w-2xl mx-auto leading-relaxed font-normal">
-              Have questions about our nail services? We'd love to hear from you. Contact Oh! My Nails today!
+              Have questions about our nail services? We'd love to hear from you. Contact ESTHENAILS today!
             </p>
           </div>
         </div>

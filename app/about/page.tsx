@@ -44,7 +44,7 @@ export default function AboutPage() {
       role: "Event Coordinator",
     },
     {
-      text: "Oh! My Nails is my go-to place. The team is talented and the atmosphere is so welcoming.",
+      text: "ESTHENAILS is my go-to place. The team is talented and the atmosphere is so welcoming.",
       author: "Leila K.",
       role: "Event Planner",
     },
@@ -96,7 +96,7 @@ export default function AboutPage() {
             </h1>
 
             <p className="md:text-xl text-white/90 max-w-2xl mx-auto leading-relaxed text-base font-normal">
-              At Oh! My Nails, we are dedicated to empowering confidence through beautiful nail art. Our mission is to
+              At ESTHENAILS, we are dedicated to empowering confidence through beautiful nail art. Our mission is to
               provide expert nail services that elevate your style while embracing creativity and personalized care.
             </p>
           </div>
@@ -108,7 +108,7 @@ export default function AboutPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center text-center">
             <div className="relative h-96 rounded-2xl overflow-hidden shadow-xl">
-              <img src="/gel-manicure-1.jpg" alt="About Oh! My Nails" className="w-full h-full object-cover" />
+              <img src="/gel-manicure-1.jpg" alt="About ESTHENAILS" className="w-full h-full object-cover" />
             </div>
             <div className="space-y-6">
               <h2 className="md:text-4xl font-bold text-foreground text-2xl">
@@ -118,7 +118,7 @@ export default function AboutPage() {
                 Meet the skilled professionals dedicated to creating stunning nail designs and experiences.
               </p>
               <p className="text-muted-foreground">
-                At Oh! My Nails, we believe that beautiful nails are more than just appearance—they're about feeling
+                At ESTHENAILS, we believe that beautiful nails are more than just appearance—they're about feeling
                 confident and empowered. Our team of expert nail technicians is committed to providing personalized
                 services that bring out your best self through stunning nail art and care.
               </p>
@@ -207,9 +207,9 @@ export default function AboutPage() {
       {/* CTA Section */}
       <section className="py-20 md:py-32 bg-primary text-primary-foreground">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-3xl md:text-4xl font-bold mb-6">Ready to Experience Oh! My Nails?</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mb-6">Ready to Experience ESTHENAILS?</h2>
           <p className="text-lg opacity-90 mb-8 max-w-2xl mx-auto">
-            Book your appointment today and discover the Oh! My Nails difference.
+            Book your appointment today and discover the ESTHENAILS difference.
           </p>
           <Link
             href="/booking"

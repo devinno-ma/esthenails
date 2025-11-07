@@ -92,7 +92,7 @@ export default function ServicesPage() {
   const additionalServices = [
     {
       title: "Signature Nail Designs",
-      description: "Exclusive nail art designs created specifically for Oh! My Nails clients.",
+      description: "Exclusive nail art designs created specifically for ESTHENAILS clients.",
       icon: "✨",
     },
     {
@@ -134,7 +134,7 @@ export default function ServicesPage() {
       role: "Event Coordinator",
     },
     {
-      text: "Oh! My Nails is my go-to place. The team is talented and the atmosphere is so welcoming.",
+      text: "ESTHENAILS is my go-to place. The team is talented and the atmosphere is so welcoming.",
       author: "Omar B.",
       role: "Graphic Designer",
     },
@@ -169,7 +169,7 @@ export default function ServicesPage() {
             {/* Headline */}
             <h1 className="luxury-text md:text-6xl lg:text-7xl leading-tight text-white text-4xl">
               Elevate Your Nails
-              <span className="block text-chart-5">with Oh! My Nails</span>
+              <span className="block text-chart-5">with ESTHENAILS</span>
             </h1>
 
             <p className="text-lg md:text-xl max-w-2xl mx-auto leading-relaxed font-light text-background">
@@ -266,7 +266,7 @@ export default function ServicesPage() {
               Premium Nail Services Tailored for You
             </h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              Discover heartfelt reviews from our clients who love their stunning nails and the confidence Oh! My Nails
+              Discover heartfelt reviews from our clients who love their stunning nails and the confidence ESTHENAILS
               brings.
             </p>
           </div>
@@ -290,7 +290,7 @@ export default function ServicesPage() {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-6">Ready to Transform Your Nails?</h2>
           <p className="text-lg opacity-90 mb-8 max-w-2xl mx-auto">
-            Book your appointment today and experience the Oh! My Nails difference.
+            Book your appointment today and experience the ESTHENAILS difference.
           </p>
           <Link
             href="/booking"

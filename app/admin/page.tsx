@@ -135,7 +135,7 @@ export default function AdminDashboard() {
       {/* Header */}
       <div className="bg-card border-b border-border sticky top-0 z-40">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 flex justify-between items-center">
-          <h1 className="text-3xl font-bold text-foreground">Oh! My Nails - Admin Dashboard</h1>
+          <h1 className="text-3xl font-bold text-foreground">ESTHENAILS - Admin Dashboard</h1>
           <button
             onClick={() => setIsAuthenticated(false)}
             className="px-4 py-2 bg-destructive/20 text-destructive rounded-lg font-medium hover:bg-destructive/30 transition-colors"

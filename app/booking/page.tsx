@@ -65,7 +65,7 @@ export default function BookingPage() {
             </div>
             <h1 className="text-4xl font-bold text-foreground">Booking Confirmed!</h1>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              Thank you for booking with Oh! My Nails. We've sent a confirmation email to {formData.email}. We look
+              Thank you for booking with ESTHENAILS. We've sent a confirmation email to {formData.email}. We look
               forward to seeing you!
             </p>
             <div className="bg-card rounded-2xl p-8 text-left space-y-4 mt-8">
@@ -138,7 +138,7 @@ export default function BookingPage() {
             </h1>
 
             <p className="text-lg md:text-xl text-white/90 max-w-2xl mx-auto leading-relaxed font-light">
-              Select your preferred nail service, date, and time to book your appointment with Oh! My Nails.
+              Select your preferred nail service, date, and time to book your appointment with ESTHENAILS.
             </p>
           </div>
         </div>
