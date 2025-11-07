@@ -48,7 +48,7 @@ export default function ContactPage() {
     {
       icon: "✉️",
       label: "Email",
-      value: "contact@ohmynails.ma",
+      value: "hello@esthenails.com",
       subvalue: "We'll respond within 24 hours",
     },
   ]
